@@ -7,9 +7,9 @@
 На данный момент перевод осуществляется через онлайн переводчики Yandeex и Deepl.
 
 Список игр, которые на данный момент возможно русифицировать:
-Temtem - https://steamcommunity.com/sharedfiles/filedetails/?id=2365045065
-The Mortuary Assistant - https://steamcommunity.com/sharedfiles/filedetails/?id=2846351927
-Core Keeper - https://steamcommunity.com/sharedfiles/filedetails/?id=2801195857
+  Temtem - https://steamcommunity.com/sharedfiles/filedetails/?id=2365045065
+  The Mortuary Assistant - https://steamcommunity.com/sharedfiles/filedetails/?id=2846351927
+  Core Keeper - https://steamcommunity.com/sharedfiles/filedetails/?id=2801195857
 
 Русифицировать игру довольно просто, всё что нужно - это указать путь к папке с игрой (именно папку, в которой лежит .exe файл игры) и нажать кнопку «Установить».
 
