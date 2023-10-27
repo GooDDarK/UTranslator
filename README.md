@@ -14,7 +14,18 @@
 
 В будущем я планирую добавить функцию автоматического обновления перевода - после обновления игры UTranslator сможет сам сразу же проверить файл локализации игры на новые и измененные строки, и перевести их с помощью онлайн переводчика.
 
+# Ссылки
 [Группа ВК](https://vk.com/utranslator)
 
-Список игр, которые на данный момент возможно русифицировать:
-[Temtem](https://steamcommunity.com/sharedfiles/filedetails/?id=2365045065), [The Mortuary Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=2846351927), [Core Keeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2801195857)
+[Инструкция](https://vk.com/@utranslator-manual)
+
+[Перевод Temtem](https://steamcommunity.com/sharedfiles/filedetails/?id=2365045065)
+
+[Перевод The Mortuary Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=2846351927)
+
+[Перевод Core Keeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2801195857)
+
+[Мой второй проект](https://vk.com/nwr_dota)
+
+# Лицензия
+© 2023 by [GooDDarK](https://vk.com/gooddark)
