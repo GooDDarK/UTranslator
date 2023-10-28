@@ -27,5 +27,4 @@
 
 [Мой второй проект](https://vk.com/nwr_dota)
 
-# Лицензия
 © 2023 by [GooDDarK](https://vk.com/gooddark)
